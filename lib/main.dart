@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           centerTitle: false,
           leading: Icon(Icons.videocam),
           title: const Text(
-            'テストアプリ',
+            'テストアプリgit',
           ),
           backgroundColor: Colors.green,
           actions: [
